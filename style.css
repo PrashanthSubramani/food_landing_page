@@ -33,6 +33,15 @@
 }
 
 
+
+/* .footer-links {
+    margin-top: 100px;
+} */
+
+.addressTo{
+    margin-left: 25%;
+}
+
 @media (max-width: 767px) {
     .header-card1 {
         width: 100%;
@@ -49,17 +58,8 @@
     }
 
 
+
+
 }
 
 
-.footer{
-    height: 680px;
-}
-
-.footer-links {
-    margin-top: 100px;
-}
-
-.addressTo{
-    margin-left: 25%;
-}
